@@ -22,7 +22,6 @@ I'm a computer engineering student who has passion for the front-end, back-end a
 - 🌱 I’m currently learning Google cloud and Kubernetes  
 
 
-</td><td valign="top" width="50%">
 
 
 
@@ -84,10 +83,7 @@ I'm a computer engineering student who has passion for the front-end, back-end a
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=sarah-kamall&&style=flat-square)  
-  
 
-<br/>  
 
 
 <br />
