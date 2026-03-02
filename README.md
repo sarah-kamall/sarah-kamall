@@ -21,6 +21,7 @@ I'm a computer engineering student who is still figuring everything out!
 
 - 🌱 I’m currently learning Google cloud and Kubernetes  
 - You can tell i love frineds 🤸
+- Ex Intern @ Siemens EDA & Incorta
 
 
 
